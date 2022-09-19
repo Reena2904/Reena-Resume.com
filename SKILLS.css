@@ -4,10 +4,12 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;  
 }
-.header{
+body{
     width: 100%;
     height: 100vh;
     background-image: url('SKILLS_BG.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     padding: 0 8.5%;
